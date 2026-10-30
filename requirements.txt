@@ -1,0 +1,6 @@
+# Inti program
+mediapipe==1.2.0
+pygame==2.6.1
+
+# mediapipe otomatis memasang opencv-contrib-python (menyediakan cv2) dan numpy,
+# jadi keduanya tidak perlu ditulis lagi di sini.
