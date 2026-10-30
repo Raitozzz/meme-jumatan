@@ -1,0 +1,15 @@
+# Lingkungan Python dan hasil instalasi
+.venv/
+__pycache__/
+*.pyc
+
+# Model MediaPipe diunduh otomatis saat pertama dijalankan
+models/
+
+# Catatan hasil menjalankan program
+logs/
+run_log.txt
+
+# Salinan gambar di folder utama, tidak dipakai program
+gk jumatan kah bang.png
+hanya mengingatkan.png

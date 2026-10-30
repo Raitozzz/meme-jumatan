@@ -39,10 +39,11 @@ TEXT_HOLD = "Tahan pose sampai lingkaran penuh"
 
 # ------------------------------------------------------------- google maps --
 MAPS_URL = "https://www.google.com/maps/search/masjid+terdekat"
+# Lokasi umum Chrome. Folder pengguna (LOCALAPPDATA) dicari otomatis oleh
+# src/maps.py, jadi tidak perlu alamat khusus milik satu komputer di sini.
 CHROME_CANDIDATES = [
     r"C:\Program Files\Google\Chrome\Application\chrome.exe",
     r"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe",
-    r"C:\Users\PC\AppData\Local\Google\Chrome\Application\chrome.exe",
 ]
 
 # ---------------------------------------------------- durasi (dalam detik) ---
