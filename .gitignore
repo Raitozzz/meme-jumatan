@@ -10,6 +10,9 @@ models/
 logs/
 run_log.txt
 
+# Hasil kerja archify, hanya diagram di assets yang ikut diunggah
+.archify/
+
 # Salinan gambar di folder utama, tidak dipakai program
 gk jumatan kah bang.png
 hanya mengingatkan.png

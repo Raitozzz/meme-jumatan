@@ -1,5 +1,7 @@
 # GA JUMATAN KAH?
 
+![Diagram cara kerja GA JUMATAN KAH](assets/workflow.png)
+
 Program tanya jawab lucu memakai webcam. Kamera menjadi "video" yang menjawab
 pertanyaan di layar lewat gesture tangan.
 
